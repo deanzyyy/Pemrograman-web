@@ -1,0 +1,47 @@
+body{
+margin:0;
+padding:0;
+display:flex;
+justify-content:center;
+background-color:#4F75FF;
+}
+
+.cv{
+    background-color:white;
+    padding:100px;
+    margin:50px;
+    border-radius:50px;
+    flex-direction: row;
+    justify-content:space-between;
+    width:50% ;
+}
+
+.tabel{
+}
+
+.judul{
+display:flex;
+justify-content:center;
+color:#4F75FF;
+border-bottom: 1px solid #4F75FF;
+}
+
+.subjudul{
+    color:#4F75FF;
+}
+
+.tabel2{
+    padding:25px;
+    border:1px solid #4F75FF;
+    width:100%;
+
+}
+
+.judultabel{
+    color:#4F75FF;
+}
+
+.foto{
+    border-radius: 100%;
+    border:5px solid #4F75FF;
+}
